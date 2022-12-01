@@ -1,0 +1,5 @@
+﻿Alignment ,Type,Cell,FLIM ,se
+Aligned,AM_10A,MCF-10A,26.73,10.95
+Aligned,AM_231,MDA-MB-231,22.95,8.17
+Random,RM_10A,MCF-10A,20.07,7.01
+Random,RM_231,MDA-MB-231,20.15,4.29
